@@ -1,0 +1,6 @@
+Revision history for Perl extension Array::Suffix.
+
+0.01  Mon Jan  5 15:48:26 2004
+	- original version; created by h2xs 1.22 with options
+		-X -n Array::Suffix
+
